@@ -6,4 +6,4 @@
 
 ### I am currently working on: Python Skills to improve my understanding and baseline knowledge in preparation for OSWE in Fall 2023.
 ### Current Resource: https://automatetheboringstuff.com/ by Al Sweigart.
-#### Narrative: Al Swigart presents the material in a way that you can apply lessons learned immediately. Additionally he is a big fan of putting his material on the web, so almost all of his books are posted under a "creative commons" license. Go check it out!
+Discussion Al Swigart presents the material in a way that you can apply lessons learned immediately. Additionally he is a big fan of putting his material on the web, so almost all of his books are posted under a "creative commons" license. Go check it out!
